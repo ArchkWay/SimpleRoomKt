@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleRoomKt</string>
+    <string name="classmodel">classModel</string>
+    <string name="body">body</string>
+    <string name="producer">producer</string>
+    <string name="mark">mark</string>
+    <string name="year">year</string>
+    <string name="editing_or_deleting">Long press for edit or delete note</string>
+</resources>
